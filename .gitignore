@@ -17,5 +17,6 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Raw archive
+# Large raw dataset archives and spreadsheets
 archive.zip
+*.xlsx
