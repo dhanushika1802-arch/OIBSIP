@@ -1,0 +1,21 @@
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+.ipython/
+
+# Temporary and log files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw archive
+archive.zip
